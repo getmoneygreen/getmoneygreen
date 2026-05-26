@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @getmoneygreen
 - 👀 I’m interested in Networking Technology
-- 🌱 I’m currently learning I.T. & Python
+- 🌱 I’m currently for my Sec+ & Network+
 - 💞️ I’m looking to collaborate 
 - Im interest in DIY projects and everything Linux
 
